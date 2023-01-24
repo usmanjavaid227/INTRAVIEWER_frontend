@@ -848,7 +848,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action {
-  background: linear-gradient(#06befceb, #06BDFC), url("../img/about.jpg") center center;
+  background: linear-gradient(#05192dca, #05192D), url("../img/about.jpg") center center;
   background-size: cover;
   padding: 100px 0;
   margin-bottom: 10px;
